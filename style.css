@@ -1,6 +1,33 @@
+*{  margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
 body {
     background-color: black;
-
-
-
+    color: white;
+}
+.botao1{
+    background-color: white;
+}
+.botao2{
+    background-color: white;
+}
+main{
+    display: flex;
+    padding: 0 400px 0px 400px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    margin: 10px 0 20px 0;
+    font-size: 40px;
+}
+p{
+    margin: 40px 0 50px 0;
+    font-size: 30px;
+}
+header,footer{
+    height: 150px;
 }
